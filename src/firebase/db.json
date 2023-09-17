@@ -1,0 +1,33 @@
+{
+    "lesson1": {
+        "lessons": ["Abc", "123", "Words", "Stuff"],
+        "complete": true,
+        "locked": false
+    },
+    "lesson2": {
+        "lessons": [
+            {"name": "Greetings",
+             "complete": true,
+             "locked": false}, 
+            {"name": "Unit 2",
+             "complete": false,
+             "locked": false}, 
+            {"name": "Unit 3",
+             "complete": false,
+             "locked": true},
+             {"name": "12",
+             "complete": false,
+             "locked": true},
+             {"name": "31",
+             "complete": false,
+             "locked": true}
+        ],
+        "complete": false,
+        "locked": false
+    },
+    "lesson3": {
+        "lessons": ["Phrases", "meow", "cheese"],
+        "complete": false,
+        "locked": true
+    }
+}

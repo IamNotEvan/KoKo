@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+  }
+  
+  .card-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Three columns with equal width */
+    gap: 20px; /* Space between grid items */
+    margin-bottom: 100px;
+  }
+  
+  /* Add additional styling for the cards if needed */
+  

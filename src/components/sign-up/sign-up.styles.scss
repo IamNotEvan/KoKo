@@ -1,0 +1,35 @@
+.sign-up {
+  display: flex;
+  flex-direction: column;
+  width: 380px;
+
+  .title {
+    margin: 10px 0;
+  }
+
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.company-search-input {
+  width: 400px !important;
+  height: 50px;
+  background: #f1f3f4 !important;
+  font-size: 18px;
+}
+
+.company-search-input:focus {
+  background: #ffffff !important;
+  font-size: 18px;
+}
+
+.sign-up-form {
+  display: flex;
+  flex-direction: column
+}
+
+.sign-up-form > * {
+  margin-bottom: 20px !important;
+}

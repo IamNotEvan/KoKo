@@ -1,0 +1,32 @@
+/* .MuiCardContent-root {
+    height: auto;
+    width: 300px;
+}
+
+.Card {
+    width:0px;
+}
+
+.css-pwngrv-MuiPaper-root-MuiCard-root {
+    width: 300px;
+} */
+
+.start-link {
+    color:rgb(255, 255, 255) !important;
+}
+
+.start-link:hover {
+    color:rgb(255, 255, 255);
+}
+
+.lesson-card {
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-image {
+    max-height: 70%;
+    max-width: 70%;
+}
